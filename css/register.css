@@ -33,10 +33,10 @@ td{
   /* fallback for old browsers */
   background: var(--main-bg-color);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(to right, #ece8eba1, #e4dfe293, #e2dbdf8c),
+  background: -webkit-linear-gradient(to right, #f2f7f3a1, #f1f5f093, #eaf1eb8c),
     url(../assets/img/login/header-bg.jpg);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(to right, #dad0d6a1, #b2cfb093, #c5d8ca8c),
+  background: linear-gradient(to right, #eff3efa1, #f2f7f393, #e7ece88c),
     url(../assets/img/header-bg.jpg);
   /* background-image: url("../assets/img/header-bg.jpg"); */
   background-repeat: no-repeat;
